@@ -1,0 +1,1 @@
+This uses a site's sitemap.xml to create a list of pages, then queries Facebook for shares, likes and comments.
